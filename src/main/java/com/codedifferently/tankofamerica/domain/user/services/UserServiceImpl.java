@@ -1,7 +1,7 @@
-package com.codedifferently.tankofamerica.domain.user.services;
+package com.codedifferently.tankofamerica.domain.user.user.services;
 
-import com.codedifferently.tankofamerica.domain.user.models.User;
-import com.codedifferently.tankofamerica.domain.user.repos.UserRepo;
+import com.codedifferently.tankofamerica.domain.user.user.models.User;
+import com.codedifferently.tankofamerica.domain.user.user.repos.UserRepo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

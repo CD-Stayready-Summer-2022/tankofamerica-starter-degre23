@@ -1,4 +1,4 @@
-package com.codedifferently.tankofamerica.domain.user.models;
+package com.codedifferently.tankofamerica.domain.user.user.models;
 
 import javax.persistence.*;
 
